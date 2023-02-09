@@ -1,7 +1,8 @@
 # Quest
 
 A platform for creating customized multi-stage NFTs
-Introduction
+
+## Introduction
 
 Quest allows users to collect and exchange first stage NFTs for the second stage and so on. Institutions have the ability to create their own collections with unique settings, values, and customization options.
 Features
